@@ -3,7 +3,7 @@
  
  int main()
  {
- 
- cout<<"cummins college of engineering"
+  cout<<"cummins college of engineering";
+ return 0;
  }
  
